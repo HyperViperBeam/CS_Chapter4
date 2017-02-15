@@ -10,6 +10,10 @@ namespace Perfect
     {
         static void Main(string[] args)
         {
+            for(int i = 1; 1 < 1001; i++)
+            {
+
+            }
         }
     }
 }

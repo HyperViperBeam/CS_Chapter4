@@ -22,7 +22,7 @@ namespace Sum
                     Console.WriteLine(sum- 999);
                     break;
                 }
-                else nums =Console.ReadLine(); num = Convert.ToInt32(nums); sum += num;
+                else nums = Console.ReadLine(); num = Convert.ToInt32(nums); sum += num;
             }
         }
     }

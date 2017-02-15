@@ -1,0 +1,5 @@
+C:\Users\eahscs\Desktop\CS_Chapter4\CS_Chapter4\Sum50\bin\Debug\Sum50.exe.config
+C:\Users\eahscs\Desktop\CS_Chapter4\CS_Chapter4\Sum50\bin\Debug\Sum50.exe
+C:\Users\eahscs\Desktop\CS_Chapter4\CS_Chapter4\Sum50\bin\Debug\Sum50.pdb
+C:\Users\eahscs\Desktop\CS_Chapter4\CS_Chapter4\Sum50\obj\Debug\Sum50.exe
+C:\Users\eahscs\Desktop\CS_Chapter4\CS_Chapter4\Sum50\obj\Debug\Sum50.pdb
